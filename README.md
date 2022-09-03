@@ -1,1 +1,1 @@
-creating the repositories
+#!/bin/bash
