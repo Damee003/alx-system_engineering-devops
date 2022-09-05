@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
-sh: 1: q: not found
-/alx-system_engineering-devops/0x00-shell_basics
-=======
-#!/bin/bash 0-current_working_directory
-pwd >> 0-current_working_directory
->>>>>>> bcee69c25b0433168fed0b85cb7b16956acaf1d6
+pwd
